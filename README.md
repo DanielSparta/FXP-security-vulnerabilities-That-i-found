@@ -1,5 +1,5 @@
 # FXP-security-vulnerabilities-That-i-found
-FXP-security-vulnerabilities-That-i-found and reported year ago and are still open
+FXP-Security-vulnerabilities-That-I-found-and-reported-a-year-ago-and-they-are-still-open-due-to-developers-ignorance
 
 
 ---------------------------------------------------------------------------------------
