@@ -86,7 +86,7 @@ when entering the page AFTER the attacker already sent the payload, it will not 
    ![image](https://github.com/DanielSparta/FXP-security-vulnerabilities-That-i-found/assets/111179755/52c3683f-ab1f-4578-a327-d222b8ea64fa)
 
 
-THEN, if we will try to search at CONTENT payload as: "</form><script>alert()</script>", it will trigger a alert.
+THEN, if we will try to search at CONTENT payload as: "</ form><script>alert()</script>, it will trigger a alert.
 I tried to make that a reflected XSS, i failed.
 
 ---------------------------------------------------------------------------------------
