@@ -29,6 +29,7 @@ Real time picture:
 
 
 Thats a cool security vulnerability, And also reported before alot of time.. but is still open.
+
 *NOTE - https://profile.fcdn.co.il/ links are changing automaticly  to something another, that says, that the another side MUST be on the chat AT THE SAME time. because, when reloading the page, or
 when entering the page AFTER the attacker already sent the payload, it will not work.*
 
