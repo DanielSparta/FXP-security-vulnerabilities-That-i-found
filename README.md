@@ -123,7 +123,7 @@ Then error will be occurred:
 
 4. Stored XSS at Private messages
 ![image](https://github.com/DanielSparta/FXP-security-vulnerabilities-That-i-found/assets/111179755/8588d228-7fa1-4331-b473-6a6511cc2811)
-Creating a payload: "https://profile.fcdn.co.il/images' onerror=alert() title="
+Creating a payload: " https://profile.fcdn.co.il/images' onerror=alert() title=' "
 
 So, when you will send this message, QUOTE it, and THEN SENDING IT... then when you will send it, XSS will be trigger for you.
 ![image](https://github.com/DanielSparta/FXP-security-vulnerabilities-That-i-found/assets/111179755/3b9644a8-cb61-4170-b872-efc06bd0d68f)
